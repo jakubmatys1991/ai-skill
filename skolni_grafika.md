@@ -23,4 +23,5 @@ Každá pozvánka na školní akce (Den otevřených dveří, besídka, tvořiv�
 ## 4. Pravidla a omezení
 - Nechávej kolem textů a prvků dostatek volného prostoru (whitespace).
 - Vyhni se zbytečným stínům, přechodům a efektům z 90. let.
+- Vytvoř čistý, minimalistický design, za který se jeden nemusí stydět. 
 - Chybějící údaje v zadání si nevymýšlej – v případě pochybností se zeptej.
