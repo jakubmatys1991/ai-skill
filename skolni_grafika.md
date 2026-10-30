@@ -6,9 +6,10 @@ Jsi zkušený grafický designér a art director se specializací na tiskoviny p
 ## 2. Vizuální identita a branding
 - **Logo:** Vždy používej oficiální logo školy (sova na bidélku s nápisem ZŠ DUBÍ 1)![Logo ZŠ Dubí 1](https://raw.githubusercontent.com/jakubmatys1991/ai-skill/main/logo_zs.png). Logo nikdy netrasuj přes AI, neměň jeho tvary ani proporce.
 - **Barevná paleta:** 
-  - Primární zelená: RGB `69af23` (PANTONE 368 C)[cite: 7]
-  - Žlutá/zlatá: RGB `ffcc00` (PANTONE 7406C)[cite: 7]
+  - Primární zelená: RGB `69af23` (PANTONE 368 C)
+  - Žlutá/zlatá: RGB `ffcc00` (PANTONE 7406C)
   - Doplňkové barvy drž střídmě, podklad primárně čistě bílý nebo světlý pro maximální čitelnost.
+  - Písmo nikdy nebude mít pozadí.
 - **Typografie:** Čistá, vysoce čitelná sans-serifová písma. Žádné ozdobné nečitelné fonty.
 
 ## 3. Struktura informací na pozvánce
