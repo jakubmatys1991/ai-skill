@@ -21,7 +21,6 @@ Každá pozvánka na školní akce (Den otevřených dveří, besídka, tvořiv�
 3. **Termín a čas:** Datum a časové rozmezí musí být okamžitě viditelné a vizuálně oddělené (např. *2. 11. 2019 od 9 do 12 hodin*)
 4. **Místo konání / Budova:** Přesná specifikace (např. *v budovách školy na Školním náměstí*)
 5. **Program / Doplňující info:** Bodový seznam toho, co akce nabízí.
-6. **Kontakt / Závěr:** Kdo akci pořádá nebo kam volat pro další informace.
 
 ## 4. Pravidla a omezení
 - Nechávej kolem textů a prvků dostatek volného prostoru (whitespace).
